@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SkypeClintGUI">
+</Property><Property Name="Solution File" Value="D:\Studies\SDP\SkypeClintGUI\SkypeClintGUI.sln">
+</Property><Property Name="User Options File" Value="D:\Studies\SDP\SkypeClintGUI\SkypeClintGUI.suo">
+</Property><Property Name="Date" Value="Thursday, July 3, 2014">
+</Property><Property Name="Time" Value="12:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SkypeClintGUI.sln" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SkypeClintGUI.suo" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI.suo">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeClintGUI.csproj" Description="Project file successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SkypeClintGUI.csproj">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\ChatGUI.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\ChatGUI.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\ChatGUI.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\ChatGUI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\LogInGUI.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\LogInGUI.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\LogInGUI.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\LogInGUI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Program.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Program.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SignUpGUI.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SignUpGUI.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SignUpGUI.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SignUpGUI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeGUI.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SkypeGUI.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeGUI.Designer.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SkypeGUI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Properties\Settings.settings" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Resources\1367876535_search.png" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Resources\1367876535_search.png">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Resources\search.png" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Resources\search.png">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Resources\user.png" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Resources\user.png">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Resources\user_info.ico" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Resources\user_info.ico">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\ChatGUI.resx" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\ChatGUI.resx">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\LogInGUI.resx" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\LogInGUI.resx">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\Properties\Resources.resx" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SignUpGUI.resx" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SignUpGUI.resx">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeGUI.resx" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\SkypeClintGUI\SkypeGUI.resx">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeClintGUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeClintGUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BOLayer" Source="BOLayer\BOLayer.csproj" Description="Project file successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\BOLayer\BOLayer.csproj">
+</Event><Event ErrorLevel="0" Project="BOLayer" Source="BOLayer\BOClass.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\BOLayer\BOClass.cs">
+</Event><Event ErrorLevel="0" Project="BOLayer" Source="BOLayer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Studies\SDP\SkypeClintGUI\Backup\BOLayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BOLayer" Source="BOLayer\BOLayer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BOLayer" Source="BOLayer\BOLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SkypeClintGUI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SkypeClintGUI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SkypeClintGUI" Source="SkypeClintGUI\SkypeClintGUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BOLayer" Source="BOLayer\BOLayer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
