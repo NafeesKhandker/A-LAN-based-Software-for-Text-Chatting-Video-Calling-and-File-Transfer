@@ -1,0 +1,26 @@
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\audio_primary_test.Form1.resources
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\audio_primary_test.Properties.Resources.resources
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\audio primary test.csproj.GenerateResource.Cache
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\bin\Debug\audio primary test.exe
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\bin\Debug\audio primary test.pdb
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\bin\Debug\LumiSoft.Net.dll
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\bin\Debug\LumiSoft.Net.xml
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\audio primary test.exe
+C:\Users\aapon\Documents\Visual Studio 2008\Projects\audio primary test\audio primary test\obj\Debug\audio primary test.pdb
+D:\KU 02-02\sdp\audio primary test\audio primary test\bin\Debug\audio primary test.exe
+D:\KU 02-02\sdp\audio primary test\audio primary test\bin\Debug\audio primary test.pdb
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\ResolveAssemblyReference.cache
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\audio_primary_test.Form1.resources
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\audio_primary_test.Properties.Resources.resources
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\audio primary test.csproj.GenerateResource.Cache
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\audio primary test.exe
+D:\KU 02-02\sdp\audio primary test\audio primary test\obj\Debug\audio primary test.pdb
+I:\SDP\audio primary test\audio primary test\obj\Debug\audio primary test.exe
+I:\SDP\audio primary test\audio primary test\obj\Debug\audio primary test.pdb
+I:\SDP\audio primary test\audio primary test\bin\Debug\audio primary test.exe
+I:\SDP\audio primary test\audio primary test\bin\Debug\audio primary test.pdb
+I:\SDP\audio primary test\audio primary test\obj\Debug\ResolveAssemblyReference.cache
+I:\SDP\audio primary test\audio primary test\obj\Debug\audio_primary_test.Form1.resources
+I:\SDP\audio primary test\audio primary test\obj\Debug\audio_primary_test.Properties.Resources.resources
+I:\SDP\audio primary test\audio primary test\obj\Debug\audio primary test.csproj.GenerateResource.Cache
