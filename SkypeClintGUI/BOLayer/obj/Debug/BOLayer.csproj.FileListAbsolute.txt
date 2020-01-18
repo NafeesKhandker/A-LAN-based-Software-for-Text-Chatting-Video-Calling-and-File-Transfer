@@ -1,0 +1,5 @@
+I:\SDP\SkypeClintGUI\BOLayer\obj\Debug\ResolveAssemblyReference.cache
+I:\SDP\SkypeClintGUI\BOLayer\bin\Debug\BOLayer.dll
+I:\SDP\SkypeClintGUI\BOLayer\bin\Debug\BOLayer.pdb
+I:\SDP\SkypeClintGUI\BOLayer\obj\Debug\BOLayer.dll
+I:\SDP\SkypeClintGUI\BOLayer\obj\Debug\BOLayer.pdb
