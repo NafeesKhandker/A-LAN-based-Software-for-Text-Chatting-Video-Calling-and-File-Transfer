@@ -1,0 +1,15 @@
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\ResolveAssemblyReference.cache
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.Properties.Resources.resources
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.SkypeGUI.resources
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.csproj.GenerateResource.Cache
+I:\SDP\SkypeClintGUI\SkypeClintGUI\bin\Debug\SkypeClintGUI.exe
+I:\SDP\SkypeClintGUI\SkypeClintGUI\bin\Debug\SkypeClintGUI.pdb
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.exe
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.pdb
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.LogInGUI.resources
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.SignUpGUI.resources
+I:\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.ChatGUI.resources
+I:\SDP\SkypeClintGUI\SkypeClintGUI\bin\Debug\BOLayer.dll
+I:\SDP\SkypeClintGUI\SkypeClintGUI\bin\Debug\BOLayer.pdb
+D:\Studies\SDP\SkypeClintGUI\SkypeClintGUI\bin\Debug\SkypeClintGUI.exe.config
+D:\Studies\SDP\SkypeClintGUI\SkypeClintGUI\obj\Debug\SkypeClintGUI.exe
